@@ -31,6 +31,10 @@ as possible in the silkscreen.
 **ARM SWD**:  
 Connector footprint can accept both an SMD and a TH programming header. 
 
+![SWD Connector](https://raw.githubusercontent.com/TheSchilk/STM32F030K6Tx_Breakout/master/Doc/SWD.jpg)
+
+See [TheSchilk/KiCad_Devices](https://github.com/TheSchilk/KiCad_Devices) for footprint.
+
 **2 LEDs**:
 Connected to pins PB0 and PB1
 
