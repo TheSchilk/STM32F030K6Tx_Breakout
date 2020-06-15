@@ -67,13 +67,12 @@ JP7: Connects pin 32 of MCU (GND) to shared GND
 JP8: Connects pin 5 of MCU (VDD) to shared VDD  
 
 
-Which means, to use this as a STM breakout:
+Which means, to use this as a STM breakout:  
 Set the following jumpers: JP4  JP5  JP6  JP7  JP8  
 
 If you want a straight LQFP Breakout:
-Set the following jumpers: JP2 JP3 
+Set the following jumpers: JP2 JP3.
 Populate R1 with a 0R resistor.
-Populate U1 and nothing else
 
 ## Pinouts
 
