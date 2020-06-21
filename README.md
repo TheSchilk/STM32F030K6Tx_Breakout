@@ -72,7 +72,6 @@ Set the following jumpers: JP4  JP5  JP6  JP7  JP8
 
 If you want a straight LQFP Breakout:
 Set the following jumpers: JP2 JP3.
-Populate R1 with a 0R resistor.
 
 ## Pinouts
 
