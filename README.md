@@ -80,22 +80,28 @@ With an STM32F030K6Tx the pinout is as follows:
 | *Pin* | *Function* | *Pin* | *Function* |
 |-|-|-|-|
 | 1 | Vdd  | 32 |  GND |
-| 2 | F0(1) | 31 | BOOT0 |
-| 3 | F1(1) | 30 | PB7 |
+| 2 | F0 (1) | 31 | BOOT0 |
+| 3 | F1 (1) | 30 | PB7 |
 | 4 | nRST  | 29 | PB6 |
 | 5 | VDDA  | 28 | PB5 |
 | 6 | PA0  | 27 | PB4 |
 | 7 | PA1  | 26 | PB3 |
 | 8 | PA2  | 25 | PA15 |
 | 9 | PA3  | 24 | PA14 |
-| 10 | PA4 | 23 | PA13(3) |
-| 11 | PA5 | 22 | PA12(3) |
+| 10 | PA4 | 23 | PA13 (3) |
+| 11 | PA5 | 22 | PA12 (3) |
 | 12 | PA6 | 21 | PA11 |
 | 13 | PA7 | 20 | PA10 |
-| 14 | PB0(2) | 19 | PA9 |
-| 15 | PB1(2) | 18 | PA8 |
+| 14 | PB0 (2) | 19 | PA9 |
+| 15 | PB1 (2) | 18 | PA8 |
 | 16 | GND | 17 | GND |
 
 (1): Crystal
 (2): LEDs
 (3); SWD
+
+## Releases 
+See [Github releases](https://github.com/TheSchilk/STM32F030K6Tx_Breakout/releases) for:  
+    - Gerbers  
+    - Schematic  
+    - Interactive HTML BOM   
